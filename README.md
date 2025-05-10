@@ -1,1 +1,1 @@
-[WEB ACCESS](https://fastify.dev/docs/latest/)
+[WEB ACCESS](https://fastify-web-development-project-6-lpgf.onrender.com)
